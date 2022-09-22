@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - https://ravi-rafay.github.io/CronChart/cron-chart-0.1.0.tgz
-    version: 0.1.0
+    version: 1.0.0
 generated: "2022-09-22T19:43:29.664498+05:30"
