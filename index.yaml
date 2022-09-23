@@ -21,14 +21,4 @@ entries:
     urls:
     - https://ravi-rafay.github.io/CronChart/cron-chart-1.0.1.tgz
     version: 1.0.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-09-23T11:09:11.954864+05:30"
-    description: A Helm chart for Kubernetes
-    digest: d586252d1fa479a665e93a9c5f39bce06cd6b18eb0ddf78ed2b6d4a39fe5b753
-    name: cron-chart
-    type: application
-    urls:
-    - https://ravi-rafay.github.io/CronChart/cron-chart-1.0.0.tgz
-    version: 1.0.0
 generated: "2022-09-23T11:09:11.953263+05:30"
