@@ -3,9 +3,9 @@ entries:
   cron-chart:
   - apiVersion: v2
     appVersion: 1.16.5
-    created: "2022-10-19T11:56:22.405308+05:30"
+    created: "2022-10-19T12:08:38.403527+05:30"
     description: A Helm chart for Kubernetes
-    digest: e61061b210059d209555f127ea24ff11ec673ef446f494de98dca6024d86459c
+    digest: 69b14bb004b8c9065801a01befdfac1c8857d8905b9ccc811e42c0bc441b9a14
     name: cron-chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.16.4
-    created: "2022-10-19T11:56:22.402475+05:30"
+    created: "2022-10-19T12:08:38.403144+05:30"
     description: A Helm chart for Kubernetes
     digest: 1202903eb4381d2f852226d45d11287f9c50816a86ebc8a60249d68f0bffe205
     name: cron-chart
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://ravi-rafay.github.io/CronChart/cron-chart-1.0.4.tgz
     version: 1.0.4
-generated: "2022-10-19T11:56:22.401571+05:30"
+generated: "2022-10-19T12:08:38.399511+05:30"
